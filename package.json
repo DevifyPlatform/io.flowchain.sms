@@ -1,0 +1,22 @@
+{
+  "name": "io.flowchain.sms",
+  "version": "0.1.0",
+  "description": "Send SMS via Twilio APIs.",
+  "keywords": [
+    "iot"
+  ],
+  "author": "jollen <jollen@jollen.org> (http://jollen.org/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowchain/io.flowchain.sms.git"
+  },
+  "homepage": "https://github.com/flowchain/io.flowchain.sms.git",
+  "dependencies": {
+    "twilio": "^2.9.1",
+    "wotcity.io": "^0.8.13"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "license": "MIT License"
+}
